@@ -3,4 +3,4 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=adriel1ft&theme=merko)](https://github.com/iuricode/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel1ft&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel1ft&theme=merko&layout=compact)
