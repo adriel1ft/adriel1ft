@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Adriel 👋
 
-I’m a data enthusiast and tech student with hands-on experience in data analysis, data engineering, and machine learning models. I'm also passionate about building chatbots using Large Language Models (LLMs) to create intelligent, interactive experiences.
-
-- 📊 Experienced in data analysis and pipeline creation for insights and process automation
-- 🧑‍💻 Skilled in designing machine learning models for predictive analytics
-- 🤖 Focused on developing chatbots and conversational AI with LLMs
-- 🚀 Currently learning about Retrieval-Augmented Generation (RAG) to enhance AI responses with relevant data retrieval
-
-In my free time, I enjoy exploring new tech tools, staying updated with AI trends, and working on side projects.
+I am a Data Science & AI student at the Federal University of Paraíba (UFPB), combining academic research with practical industry experience. My expertise spans the entire data lifecycle, including Data Analysis, Data Engineering, and Machine Learning.
 
 Feel free to connect or reach out!
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel1ft&theme=merko&layout=compact)
