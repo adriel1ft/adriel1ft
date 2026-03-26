@@ -4,7 +4,7 @@ I'm a **Data Science & AI** student at UFPB, currently working as a **Data Scien
 
 What drives me the most is developing AI in a responsible and meaningful way, combining solid academic research with scalable engineering practices. 
 
-Outisde of the tech world, I enjoy watching Rupaul`s Drag Race, visiting restaurants & I recently started my vinyl collection. 
+Outisde of the tech world, I enjoy watching Rupaul`s Drag Race, visiting restaurants & I recently started my vinyl collection. 💄🥘💽
 
 Feel free to reach out! :)
 
