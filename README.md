@@ -7,5 +7,3 @@ What drives me the most is developing AI in a responsible and meaningful way, co
 Outisde of the tech world, I enjoy watching Rupaul`s Drag Race, visiting restaurants & I recently started my vinyl collection. 💄🥘💽
 
 Feel free to reach out! :)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriel1ft&theme=merko&layout=compact)
